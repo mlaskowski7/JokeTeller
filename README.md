@@ -1,3 +1,3 @@
 #Joke Teller 
-I used Speech API, Joke API
+I used text-to-speech API, Joke API
 The gif is from giphy.com
